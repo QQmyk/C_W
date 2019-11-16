@@ -3,7 +3,7 @@
     <version value="1"/>
 
     <list>
-        <mapping class="com.c_w.android.db.Provimce"/>
+        <mapping class="com.c_w.android.db.Province"/>
         <mapping class="com.c_w.android.db.City"/>
         <mapping class="com.c_w.android.db.County"/>
     </list>

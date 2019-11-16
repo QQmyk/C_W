@@ -2,7 +2,7 @@ package com.c_w.android.db;
 
 import org.litepal.crud.LitePalSupport;
 
-public class Provimce extends LitePalSupport {
+public class Province extends LitePalSupport {
     private int id;
     private String provinceName;
     private int provinceCode;
